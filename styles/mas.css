@@ -1,0 +1,29 @@
+/* styles.css */
+.boton {
+    display: block;
+    width: 200px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 10px auto;
+    color: #fff;
+    text-align: center;
+}
+
+.inicio {
+    background-color: #3498db;
+}
+
+.encuentranos {
+    background-color: #27ae60;
+}
+
+.registrate {
+    background-color: #e74c3c;
+}
+
+.botones-container {
+    text-align: center;
+}

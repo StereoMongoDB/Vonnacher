@@ -1,0 +1,29 @@
+table {
+    font-size: 16px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 12px; /* Adjust padding as needed */
+}
+
+th {
+    background-color: #343a40; /* Header background color */
+}
+
+th {
+    color: #fff; /* Header text color */
+}
+.box {
+    margin-bottom: 20px; /* Optional: Add margin to the box */
+}
+
+.box-header {
+    padding: 5px; /* Optional: Adjust padding as needed */
+
+}
+
+.box-container {
+    padding: 5px; /* Optional: Adjust padding as needed */
+}

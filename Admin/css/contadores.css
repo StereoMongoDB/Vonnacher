@@ -1,0 +1,59 @@
+.custom-box {
+    /* Tu código CSS actual para los recuadros */
+    /* ... */
+
+    /* Nuevas clases para los recuadros personalizados */
+    width: 100%;
+    max-width: 200px;
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.custom-box .box-details {
+    margin-bottom: 10px;
+}
+
+.custom-box .box-icon {
+    font-size: 24px;
+}
+
+/* Estilos específicos para cada tipo de contador */
+.custom-box.citas {
+    background-color: #008cff /* Fondo específico para citas */
+}
+
+.custom-box.productos {
+    background-color: #008cff /* Fondo específico para productos */
+}
+
+.custom-box.dudas {
+    background-color: r#008cff /* Fondo específico para dudas */
+}
+
+.custom-box.alumnos {
+    background-color: #008cff/* Fondo específico para alumnos */
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+/* Tu CSS general */
+
+/* Tu CSS modificado con las nuevas clases */
+.citas {
+    background-color: #eaf7ff; /* Fondo específico para citas */
+}
+
+.productos {
+    background-color: #f7f7e4; /* Fondo específico para productos */
+}
+
+.dudas {
+    background-color: #fde9e9; /* Fondo específico para dudas */
+}
+
+.alumnos {
+    background-color: #e2f5e1; /* Fondo específico para alumnos */
+}

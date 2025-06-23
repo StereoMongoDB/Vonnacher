@@ -1,0 +1,16 @@
+.boton-regreso {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: #6faad2;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.bg-agile {
+    position: relative;
+    z-index: 1;
+}
